@@ -11,21 +11,21 @@
 
 ---
 
-## 🧑‍💻 Languages I Use
+## Languages I Use
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,css" />
 </p>
 
 ---
 
-## 🛠 Tools & Workflow
+## Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📌 What I'm Doing Now
+## What I'm Doing Now
 - Learning Python step by step  
 - Practicing modern CSS designs  
 - Building small projects to learn better  
