@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Muhammad Ahmad</h1>
+<h3 align="center">Pharm D Student | Coumputer Science Student</h3>
 
-<!--
-**gtfo-ahmad/gtfo-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+- Pharm D student  
+- Learning **Python** and **CSS**
+- Interested in simple, clean, useful tech
+- Focused on skills, not show-off
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Languages I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,css" />
+</p>
+
+---
+
+## 🛠 Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📌 What I'm Doing Now
+- Learning Python step by step  
+- Practicing modern CSS designs  
+- Building small projects to learn better  
+
+---
+
