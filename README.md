@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Ahmad</h1>
+<h1 align="center">Ahmiii</h1>
 <h3 align="center">Pharm D Student | Coumputer Science Student</h3>
 
 ---
